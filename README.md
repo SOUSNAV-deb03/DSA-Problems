@@ -30,42 +30,7 @@ My solutions to Data Structures and Algorithms problems
 
 ---
 
-## 📁 How I Organize
 
-I keep it **simple and flexible** - just add problems as I solve them! No strict folder structure, just:
-
-DSA-Problems/
-│
-├── problem_001_TwoSum.cpp
-├── problem_002_ReverseLinkedList.cpp
-├── problem_003_BinaryTreeTraversal.cpp
-├── problem_004_LongestSubstring.cpp
-├── ... (and so on)
-│
-└── README.md (this file)
-
-
-
-
-**The point is**: I solve problems, I upload them  💪
-
----
-
-## 📝 File Naming
-
-I try to keep filenames descriptive:
-```
-[ProblemName]_[Platform].cpp
-or
-[Number]_[ProblemName].cpp
-```
-
-**Examples:**
-- `TwoSum_LeetCode.cpp`
-- `DijkstraShortestPath.cpp`
-- `001_MaximumSubarray.cpp`
-
-Whatever makes sense at the time! 😄
 
 ---
 
@@ -141,7 +106,7 @@ Feel free to explore my solutions, learn from them, or reach out!
 
 <div align="center">
 
-### ⭐ Star this repo if you find it useful!
+
 
 **Keep Coding, Keep Growing!**
 
